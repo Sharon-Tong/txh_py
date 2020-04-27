@@ -1,0 +1,6 @@
+2020-04-17 09:12:33,085 - connect failed,
+2020-04-17 09:12:33,103 -  select error:
+Supplied connection object Parameter is invalid
+2020-04-17 09:15:32,423 - connect failed,
+2020-04-17 09:15:32,423 -  select error:
+Supplied connection object Parameter is invalid

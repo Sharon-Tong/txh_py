@@ -1,0 +1,2467 @@
+2020-04-17 15:52:47,451 - 获取规格...
+2020-04-17 15:52:48,143 - 获取时间...
+2020-04-17 15:52:48,676 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：北京市；处理的地市为：北京市
+2020-04-17 15:52:48,676 - 获取原始数据...
+2020-04-17 15:58:37,258 - 开始计算零售户的分类...
+2020-04-17 16:00:10,109 - R阈值为：6.000000；R的阈值为：2.000000；M的阈值为：559.680000
+2020-04-17 16:00:31,452 - 需要处理的数据共11887条
+2020-04-17 16:00:31,866 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:00:32,739 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:00:33,170 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:00:33,933 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:00:34,708 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:00:35,111 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:00:35,243 -  select error:
+Column information cannot be retrieved:
+2020-04-17 16:11:45,639 - 获取规格...
+2020-04-17 16:11:46,425 - 获取时间...
+2020-04-17 16:00:35,245 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：天津市；处理的地市为：天津卷烟厂
+2020-04-17 16:00:35,246 - 获取原始数据...
+
+2020-04-17 16:19:07,611 - 开始计算零售户的分类...
+2020-04-17 16:19:07,622 - 该地区无双喜一二类烟的零售户...
+2020-04-17 16:19:07,759 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:19:07,760 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：天津市；处理的地市为：天津市
+2020-04-17 16:19:07,760 - 获取原始数据...
+2020-04-17 16:25:08,634 - 开始计算零售户的分类...
+2020-04-17 16:26:09,849 - R阈值为：4.000000；R的阈值为：1.000000；M的阈值为：392.300000
+2020-04-17 16:26:23,825 - 需要处理的数据共8643条
+2020-04-17 16:26:24,597 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:26:25,007 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:26:25,749 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:26:26,137 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:26:26,241 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:26:26,348 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:26:26,348 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河北省；处理的地市为：保定市
+2020-04-17 16:26:26,349 - 获取原始数据...
+2020-04-17 16:33:29,691 - 开始计算零售户的分类...
+2020-04-17 16:33:47,682 - R阈值为：5.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 16:33:51,850 - 需要处理的数据共2538条
+2020-04-17 16:33:53,053 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:33:53,160 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:33:53,236 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:33:53,251 - 关闭数据库...
+2020-04-17 16:33:53,252 - 运行时间为： 22分 8秒
+2020-04-17 16:34:36,783 - 获取规格...
+2020-04-17 16:34:37,396 - 获取时间...
+2020-04-17 16:34:37,904 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山西省；处理的地市为：朔州市
+2020-04-17 16:34:37,904 - 获取原始数据...
+2020-04-17 16:41:09,919 - 开始计算零售户的分类...
+2020-04-17 16:41:09,934 - 该地区无双喜一二类烟的零售户...
+2020-04-17 16:41:10,062 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:41:10,063 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山西省；处理的地市为：太原市
+2020-04-17 16:41:10,064 - 获取原始数据...
+2020-04-17 16:47:09,897 - 开始计算零售户的分类...
+2020-04-17 16:48:09,992 - R阈值为：4.000000；R的阈值为：2.000000；M的阈值为：304.300000
+2020-04-17 16:48:23,530 - 需要处理的数据共8257条
+2020-04-17 16:48:23,968 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:48:24,734 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:48:25,481 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:48:26,022 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:48:26,077 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:48:26,195 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:48:26,195 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山西省；处理的地市为：忻州市
+2020-04-17 16:48:26,195 - 获取原始数据...
+2020-04-17 16:52:43,938 - 开始计算零售户的分类...
+2020-04-17 16:53:13,220 - R阈值为：5.000000；R的阈值为：2.000000；M的阈值为：258.600000
+2020-04-17 16:53:20,076 - 需要处理的数据共4354条
+2020-04-17 16:53:21,349 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:53:21,812 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:53:21,879 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:53:21,975 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:53:21,976 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山西省；处理的地市为：阳泉市
+2020-04-17 16:53:21,976 - 获取原始数据...
+2020-04-17 16:57:13,799 - 开始计算零售户的分类...
+2020-04-17 16:57:25,686 - R阈值为：5.000000；R的阈值为：2.000000；M的阈值为：387.900000
+2020-04-17 16:57:28,598 - 需要处理的数据共1843条
+2020-04-17 16:57:29,354 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:57:29,457 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 16:57:29,458 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山西省；处理的地市为：运城市
+2020-04-17 16:57:29,459 - 获取原始数据...
+2020-04-17 17:00:56,885 - 开始计算零售户的分类...
+2020-04-17 17:00:57,625 - R阈值为：13.000000；R的阈值为：1.000000；M的阈值为：600.000000
+2020-04-17 17:00:57,808 - 需要处理的数据共106条
+2020-04-17 17:00:57,861 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 17:00:57,962 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 17:00:57,963 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山西省；处理的地市为：长治市
+2020-04-17 17:00:57,963 - 获取原始数据...
+2020-04-17 17:05:10,640 - 开始计算零售户的分类...
+2020-04-17 17:05:10,661 - 该地区无双喜一二类烟的零售户...
+2020-04-17 17:05:10,765 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 17:05:10,767 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：内蒙古区；处理的地市为：阿拉善盟
+2020-04-17 17:05:10,768 - 获取原始数据...
+2020-04-17 17:08:06,805 - 开始计算零售户的分类...
+2020-04-17 17:08:09,064 - R阈值为：2.000000；R的阈值为：2.000000；M的阈值为：279.840000
+2020-04-17 17:08:09,619 - 需要处理的数据共352条
+2020-04-17 17:08:09,742 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 17:08:09,848 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 17:08:09,849 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：内蒙古区；处理的地市为：巴彦淖尔市
+2020-04-17 17:08:09,849 - 获取原始数据...
+2020-04-17 17:12:53,209 - 开始计算零售户的分类...
+2020-04-17 17:13:02,790 - R阈值为：3.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 17:13:05,698 - 需要处理的数据共633条
+2020-04-17 17:13:05,869 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 17:13:05,973 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 17:13:05,984 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：内蒙古区；处理的地市为：包头市
+2020-04-17 17:13:05,985 - 获取原始数据...
+2020-04-17 17:20:00,722 - 开始计算零售户的分类...
+2020-04-17 17:20:13,736 - R阈值为：2.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 17:20:17,141 - 需要处理的数据共876条
+2020-04-17 17:20:17,339 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 17:20:17,442 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 17:20:17,445 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：内蒙古区；处理的地市为：赤峰市
+2020-04-17 17:20:17,446 - 获取原始数据...
+2020-04-17 17:31:50,571 - 开始计算零售户的分类...
+2020-04-17 17:32:05,565 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 17:32:08,850 - 需要处理的数据共806条
+2020-04-17 17:32:09,073 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 17:32:09,170 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 17:32:09,185 - 关闭数据库...
+2020-04-17 17:32:09,188 - 运行时间为： 57分33秒
+2020-04-17 18:04:55,387 - 获取规格...
+2020-04-17 18:04:56,681 - 获取时间...
+2020-04-17 18:04:57,212 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：辽宁省；处理的地市为：鞍山市
+2020-04-17 18:04:57,216 - 获取原始数据...
+2020-04-17 18:11:18,105 - 开始计算零售户的分类...
+2020-04-17 18:11:43,182 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 18:11:49,242 - 需要处理的数据共1743条
+2020-04-17 18:11:49,629 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 18:11:49,729 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 18:11:49,731 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：辽宁省；处理的地市为：本溪市
+2020-04-17 18:11:49,732 - 获取原始数据...
+2020-04-17 18:17:35,373 - 开始计算零售户的分类...
+2020-04-17 18:17:35,383 - 该地区无双喜一二类烟的零售户...
+2020-04-17 18:17:35,493 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 18:17:35,493 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：辽宁省；处理的地市为：朝阳市
+2020-04-17 18:17:35,503 - 获取原始数据...
+2020-04-17 18:22:33,852 - 开始计算零售户的分类...
+2020-04-17 18:22:33,862 - 该地区无双喜一二类烟的零售户...
+2020-04-17 18:22:34,002 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 18:22:34,002 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：辽宁省；处理的地市为：丹东市
+2020-04-17 18:22:34,002 - 获取原始数据...
+2020-04-17 18:27:58,387 - 开始计算零售户的分类...
+2020-04-17 18:28:06,730 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 18:28:08,740 - 需要处理的数据共1225条
+2020-04-17 18:28:09,020 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 18:28:09,110 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 18:28:09,110 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：辽宁省；处理的地市为：抚顺市
+2020-04-17 18:28:09,110 - 获取原始数据...
+2020-04-17 18:34:33,861 - 开始计算零售户的分类...
+2020-04-17 18:34:33,861 - 该地区无双喜一二类烟的零售户...
+2020-04-17 18:34:33,981 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 18:34:33,981 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：辽宁省；处理的地市为：阜新市
+2020-04-17 18:34:33,981 - 获取原始数据...
+2020-04-17 18:40:29,590 - 开始计算零售户的分类...
+2020-04-17 18:40:29,600 - 该地区无双喜一二类烟的零售户...
+2020-04-17 18:40:29,700 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 18:40:29,700 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：辽宁省；处理的地市为：葫芦岛市
+2020-04-17 18:40:29,710 - 获取原始数据...
+2020-04-17 18:46:34,921 - 开始计算零售户的分类...
+2020-04-17 18:46:34,931 - 该地区无双喜一二类烟的零售户...
+2020-04-17 18:46:35,042 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 18:46:35,042 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：辽宁省；处理的地市为：锦州市
+2020-04-17 18:46:35,042 - 获取原始数据...
+2020-04-17 18:52:01,089 - 开始计算零售户的分类...
+2020-04-17 18:52:01,099 - 该地区无双喜一二类烟的零售户...
+2020-04-17 18:52:01,179 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 18:52:01,189 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：辽宁省；处理的地市为：辽阳市
+2020-04-17 18:52:01,189 - 获取原始数据...
+2020-04-17 18:56:09,777 - 开始计算零售户的分类...
+2020-04-17 18:56:09,777 - 该地区无双喜一二类烟的零售户...
+2020-04-17 18:56:09,917 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 18:56:09,917 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：辽宁省；处理的地市为：盘锦市
+2020-04-17 18:56:09,917 - 获取原始数据...
+2020-04-17 19:02:09,122 - 开始计算零售户的分类...
+2020-04-17 19:02:09,122 - 该地区无双喜一二类烟的零售户...
+2020-04-17 19:02:09,232 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:02:09,242 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：辽宁省；处理的地市为：沈阳市
+2020-04-17 19:02:09,242 - 获取原始数据...
+2020-04-17 19:07:00,487 - 开始计算零售户的分类...
+2020-04-17 19:07:00,487 - 该地区无双喜一二类烟的零售户...
+2020-04-17 19:07:00,607 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:07:00,607 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：辽宁省；处理的地市为：铁岭市
+2020-04-17 19:07:00,607 - 获取原始数据...
+2020-04-17 19:13:07,594 - 开始计算零售户的分类...
+2020-04-17 19:13:07,604 - 该地区无双喜一二类烟的零售户...
+2020-04-17 19:13:07,724 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:13:07,724 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：辽宁省；处理的地市为：营口市
+2020-04-17 19:13:07,724 - 获取原始数据...
+2020-04-17 19:19:15,948 - 开始计算零售户的分类...
+2020-04-17 19:19:15,958 - 该地区无双喜一二类烟的零售户...
+2020-04-17 19:19:16,069 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:19:16,078 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：大连市；处理的地市为：大连市
+2020-04-17 19:19:16,078 - 获取原始数据...
+2020-04-17 19:23:27,613 - 开始计算零售户的分类...
+2020-04-17 19:23:51,148 - R阈值为：6.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 19:23:56,512 - 需要处理的数据共3225条
+2020-04-17 19:23:57,292 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:23:57,522 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:23:57,612 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:23:57,612 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：吉林省；处理的地市为：白城市
+2020-04-17 19:23:57,622 - 获取原始数据...
+2020-04-17 19:27:15,047 - 开始计算零售户的分类...
+2020-04-17 19:27:15,047 - 该地区无双喜一二类烟的零售户...
+2020-04-17 19:27:15,167 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:27:15,167 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：吉林省；处理的地市为：白山市
+2020-04-17 19:27:15,167 - 获取原始数据...
+2020-04-17 19:31:41,628 - 开始计算零售户的分类...
+2020-04-17 19:31:42,578 - R阈值为：6.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 19:31:42,808 - 需要处理的数据共159条
+2020-04-17 19:31:42,878 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:31:42,958 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:31:42,958 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：吉林省；处理的地市为：吉林市
+2020-04-17 19:31:42,958 - 获取原始数据...
+2020-04-17 19:36:37,483 - 开始计算零售户的分类...
+2020-04-17 19:36:37,903 - R阈值为：5.000000；R的阈值为：1.000000；M的阈值为：600.000000
+2020-04-17 19:36:38,003 - 需要处理的数据共63条
+2020-04-17 19:36:38,054 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:36:38,154 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:36:38,154 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：吉林省；处理的地市为：辽源市
+2020-04-17 19:36:38,154 - 获取原始数据...
+2020-04-17 19:40:46,093 - 开始计算零售户的分类...
+2020-04-17 19:40:46,103 - 该地区无双喜一二类烟的零售户...
+2020-04-17 19:40:46,223 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:40:46,223 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：吉林省；处理的地市为：四平市
+2020-04-17 19:40:46,223 - 获取原始数据...
+2020-04-17 19:46:50,865 - 开始计算零售户的分类...
+2020-04-17 19:46:51,315 - R阈值为：13.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 19:46:51,435 - 需要处理的数据共70条
+2020-04-17 19:46:51,525 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:46:51,675 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:46:51,675 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：吉林省；处理的地市为：松原市
+2020-04-17 19:46:51,675 - 获取原始数据...
+2020-04-17 19:51:30,023 - 开始计算零售户的分类...
+2020-04-17 19:51:33,373 - R阈值为：12.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 19:51:34,183 - 需要处理的数据共547条
+2020-04-17 19:51:34,313 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:51:34,403 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:51:34,403 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：吉林省；处理的地市为：通化市
+2020-04-17 19:51:34,403 - 获取原始数据...
+2020-04-17 19:55:52,907 - 开始计算零售户的分类...
+2020-04-17 19:55:53,407 - R阈值为：13.000000；R的阈值为：1.000000；M的阈值为：139.920000
+2020-04-17 19:55:53,527 - 需要处理的数据共72条
+2020-04-17 19:55:53,587 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:55:53,667 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 19:55:53,667 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：吉林省；处理的地市为：延边
+2020-04-17 19:55:53,667 - 获取原始数据...
+2020-04-17 19:59:47,470 - 开始计算零售户的分类...
+2020-04-17 19:59:59,868 - R阈值为：6.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 20:00:02,648 - 需要处理的数据共1644条
+2020-04-17 20:00:03,358 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:00:03,448 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:00:03,448 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：吉林省；处理的地市为：长春市
+2020-04-17 20:00:03,448 - 获取原始数据...
+2020-04-17 20:05:26,639 - 开始计算零售户的分类...
+2020-04-17 20:05:36,611 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 20:05:38,861 - 需要处理的数据共1572条
+2020-04-17 20:05:39,221 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:05:39,312 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:05:39,312 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：黑龙江省；处理的地市为：大庆市
+2020-04-17 20:05:39,312 - 获取原始数据...
+2020-04-17 20:09:35,758 - 开始计算零售户的分类...
+2020-04-17 20:09:38,821 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 20:09:39,561 - 需要处理的数据共439条
+2020-04-17 20:09:39,671 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:09:39,751 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:09:39,751 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：黑龙江省；处理的地市为：大兴安岭
+2020-04-17 20:09:39,751 - 获取原始数据...
+2020-04-17 20:15:39,821 - 开始计算零售户的分类...
+2020-04-17 20:15:39,831 - 该地区无双喜一二类烟的零售户...
+2020-04-17 20:15:39,941 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:15:39,941 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：黑龙江省；处理的地市为：哈尔滨市
+2020-04-17 20:15:39,941 - 获取原始数据...
+2020-04-17 20:20:12,325 - 开始计算零售户的分类...
+2020-04-17 20:20:30,855 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 20:20:35,165 - 需要处理的数据共2637条
+2020-04-17 20:20:35,925 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:20:36,065 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:20:36,155 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:20:36,155 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：黑龙江省；处理的地市为：鹤岗市
+2020-04-17 20:20:36,155 - 获取原始数据...
+2020-04-17 20:25:34,840 - 开始计算零售户的分类...
+2020-04-17 20:25:37,230 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 20:25:37,800 - 需要处理的数据共395条
+2020-04-17 20:25:37,910 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:25:38,030 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:25:38,030 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：黑龙江省；处理的地市为：黑河市
+2020-04-17 20:25:38,030 - 获取原始数据...
+2020-04-17 20:30:18,839 - 开始计算零售户的分类...
+2020-04-17 20:30:23,643 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 20:30:24,813 - 需要处理的数据共680条
+2020-04-17 20:30:24,983 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:30:25,063 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:30:25,073 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：黑龙江省；处理的地市为：鸡西市
+2020-04-17 20:30:25,073 - 获取原始数据...
+2020-04-17 20:35:13,860 - 开始计算零售户的分类...
+2020-04-17 20:35:13,870 - 该地区无双喜一二类烟的零售户...
+2020-04-17 20:35:13,980 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:35:13,980 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：黑龙江省；处理的地市为：佳木斯市
+2020-04-17 20:35:13,980 - 获取原始数据...
+2020-04-17 20:40:25,219 - 开始计算零售户的分类...
+2020-04-17 20:40:25,219 - 该地区无双喜一二类烟的零售户...
+2020-04-17 20:40:25,329 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:40:25,329 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：黑龙江省；处理的地市为：牡丹江市
+2020-04-17 20:40:25,329 - 获取原始数据...
+2020-04-17 20:43:09,737 - 开始计算零售户的分类...
+2020-04-17 20:43:09,747 - 该地区无双喜一二类烟的零售户...
+2020-04-17 20:43:09,857 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:43:09,857 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：黑龙江省；处理的地市为：七台河市
+2020-04-17 20:43:09,857 - 获取原始数据...
+2020-04-17 20:48:53,111 - 开始计算零售户的分类...
+2020-04-17 20:48:53,111 - 该地区无双喜一二类烟的零售户...
+2020-04-17 20:48:53,221 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:48:53,221 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：黑龙江省；处理的地市为：齐齐哈尔市
+2020-04-17 20:48:53,221 - 获取原始数据...
+2020-04-17 20:51:47,860 - 开始计算零售户的分类...
+2020-04-17 20:52:05,525 - R阈值为：6.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 20:52:09,655 - 需要处理的数据共2471条
+2020-04-17 20:52:10,435 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:52:10,525 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:52:10,625 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:52:10,625 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：黑龙江省；处理的地市为：双鸭山市
+2020-04-17 20:52:10,625 - 获取原始数据...
+2020-04-17 20:57:28,077 - 开始计算零售户的分类...
+2020-04-17 20:57:28,087 - 该地区无双喜一二类烟的零售户...
+2020-04-17 20:57:28,198 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:57:28,198 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：黑龙江省；处理的地市为：绥芬河
+2020-04-17 20:57:28,198 - 获取原始数据...
+2020-04-17 20:59:39,804 - 开始计算零售户的分类...
+2020-04-17 20:59:39,804 - 该地区无双喜一二类烟的零售户...
+2020-04-17 20:59:39,914 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 20:59:39,914 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：黑龙江省；处理的地市为：绥化分市
+2020-04-17 20:59:39,914 - 获取原始数据...
+2020-04-17 21:05:01,269 - 开始计算零售户的分类...
+2020-04-17 21:05:07,719 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 21:05:09,199 - 需要处理的数据共1070条
+2020-04-17 21:05:09,419 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:05:09,519 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:05:09,519 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：黑龙江省；处理的地市为：伊春市
+2020-04-17 21:05:09,519 - 获取原始数据...
+2020-04-17 21:08:40,273 - 开始计算零售户的分类...
+2020-04-17 21:08:40,273 - 该地区无双喜一二类烟的零售户...
+2020-04-17 21:08:40,393 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:08:40,393 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：上海市；处理的地市为：上海市
+2020-04-17 21:08:40,393 - 获取原始数据...
+2020-04-17 21:13:54,660 - 开始计算零售户的分类...
+2020-04-17 21:15:54,800 - R阈值为：4.000000；R的阈值为：3.000000；M的阈值为：475.000000
+2020-04-17 21:16:26,112 - 需要处理的数据共17195条
+2020-04-17 21:16:26,572 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:16:27,342 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:16:27,748 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:16:28,519 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:16:28,919 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:16:29,639 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:16:30,389 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:16:30,779 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:16:30,999 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:16:31,096 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:16:31,096 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江苏省；处理的地市为：常州市
+2020-04-17 21:16:31,096 - 获取原始数据...
+2020-04-17 21:20:15,979 - 开始计算零售户的分类...
+2020-04-17 21:20:54,125 - R阈值为：4.000000；R的阈值为：1.000000；M的阈值为：139.920000
+2020-04-17 21:21:03,019 - 需要处理的数据共5951条
+2020-04-17 21:21:03,459 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:21:04,299 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:21:04,699 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:21:04,799 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:21:04,799 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江苏省；处理的地市为：淮安市
+2020-04-17 21:21:04,799 - 获取原始数据...
+2020-04-17 21:24:36,365 - 开始计算零售户的分类...
+2020-04-17 21:25:20,719 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：139.920000
+2020-04-17 21:25:30,004 - 需要处理的数据共6165条
+2020-04-17 21:25:30,425 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:25:31,364 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:25:31,785 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:25:31,835 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:25:32,035 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:25:32,035 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江苏省；处理的地市为：连云港市
+2020-04-17 21:25:32,035 - 获取原始数据...
+2020-04-17 21:31:28,905 - 开始计算零售户的分类...
+2020-04-17 21:32:11,000 - R阈值为：3.000000；R的阈值为：2.000000；M的阈值为：279.840000
+2020-04-17 21:32:21,472 - 需要处理的数据共6671条
+2020-04-17 21:32:22,242 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:32:23,002 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:32:23,712 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:32:23,832 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:32:23,922 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:32:23,922 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江苏省；处理的地市为：南京市
+2020-04-17 21:32:23,922 - 获取原始数据...
+2020-04-17 21:36:09,674 - 开始计算零售户的分类...
+2020-04-17 21:36:30,022 - R阈值为：6.000000；R的阈值为：2.000000；M的阈值为：419.760000
+2020-04-17 21:36:34,662 - 需要处理的数据共3156条
+2020-04-17 21:36:35,242 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:36:35,512 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:36:35,592 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:36:35,592 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江苏省；处理的地市为：南通市
+2020-04-17 21:36:35,592 - 获取原始数据...
+2020-04-17 21:40:53,835 - 开始计算零售户的分类...
+2020-04-17 21:41:23,486 - R阈值为：3.000000；R的阈值为：2.000000；M的阈值为：579.840000
+2020-04-17 21:41:30,436 - 需要处理的数据共4283条
+2020-04-17 21:41:31,286 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:41:31,806 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:41:31,856 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:41:31,936 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:41:31,946 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江苏省；处理的地市为：苏州市
+2020-04-17 21:41:31,946 - 获取原始数据...
+2020-04-17 21:46:41,621 - 开始计算零售户的分类...
+2020-04-17 21:48:32,199 - R阈值为：3.000000；R的阈值为：1.000000；M的阈值为：341.320000
+2020-04-17 21:48:59,301 - 需要处理的数据共14868条
+2020-04-17 21:48:59,801 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:49:00,601 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:49:01,061 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:49:02,051 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:49:02,491 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:49:03,231 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:49:03,631 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:49:03,771 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:49:03,861 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:49:03,871 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江苏省；处理的地市为：泰州市
+2020-04-17 21:49:03,871 - 获取原始数据...
+2020-04-17 21:54:32,872 - 开始计算零售户的分类...
+2020-04-17 21:54:55,877 - R阈值为：5.000000；R的阈值为：1.000000；M的阈值为：481.240000
+2020-04-17 21:55:00,985 - 需要处理的数据共3613条
+2020-04-17 21:55:01,445 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:55:01,755 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:55:01,855 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 21:55:01,855 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江苏省；处理的地市为：无锡市
+2020-04-17 21:55:01,855 - 获取原始数据...
+2020-04-17 21:58:38,970 - 开始计算零售户的分类...
+2020-04-17 21:59:57,041 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：139.920000
+2020-04-17 22:00:15,704 - 需要处理的数据共11841条
+2020-04-17 22:00:16,475 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:00:16,885 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:00:17,624 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:00:18,065 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:00:18,891 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:00:19,251 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:00:19,351 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:00:19,351 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江苏省；处理的地市为：宿迁市
+2020-04-17 22:00:19,351 - 获取原始数据...
+2020-04-17 22:03:45,939 - 开始计算零售户的分类...
+2020-04-17 22:04:18,540 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：139.920000
+2020-04-17 22:04:27,081 - 需要处理的数据共5029条
+2020-04-17 22:04:28,051 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:04:28,511 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:04:28,691 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:04:28,781 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:04:28,781 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江苏省；处理的地市为：徐州市
+2020-04-17 22:04:28,781 - 获取原始数据...
+2020-04-17 22:06:53,874 - 开始计算零售户的分类...
+2020-04-17 22:07:43,745 - R阈值为：4.000000；R的阈值为：2.000000；M的阈值为：279.840000
+2020-04-17 22:07:55,693 - 需要处理的数据共7855条
+2020-04-17 22:07:56,143 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:07:56,908 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:07:57,368 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:07:58,068 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:07:58,168 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:07:58,168 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江苏省；处理的地市为：盐城市
+2020-04-17 22:07:58,168 - 获取原始数据...
+2020-04-17 22:10:38,277 - 开始计算零售户的分类...
+2020-04-17 22:11:47,008 - R阈值为：2.000000；R的阈值为：3.000000；M的阈值为：744.120000
+2020-04-17 22:12:04,172 - 需要处理的数据共9274条
+2020-04-17 22:12:05,402 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:12:05,862 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:12:06,872 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:12:07,352 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:12:07,622 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:12:07,742 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:12:07,742 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江苏省；处理的地市为：扬州市
+2020-04-17 22:12:07,742 - 获取原始数据...
+2020-04-17 22:16:05,381 - 开始计算零售户的分类...
+2020-04-17 22:16:21,393 - R阈值为：1.000000；R的阈值为：4.000000；M的阈值为：962.480000
+2020-04-17 22:16:25,323 - 需要处理的数据共2634条
+2020-04-17 22:16:25,818 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:16:25,928 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:16:26,027 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:16:26,027 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江苏省；处理的地市为：镇江市
+2020-04-17 22:16:26,027 - 获取原始数据...
+2020-04-17 22:18:42,112 - 开始计算零售户的分类...
+2020-04-17 22:18:57,852 - R阈值为：13.000000；R的阈值为：1.000000；M的阈值为：129.300000
+2020-04-17 22:19:01,714 - 需要处理的数据共2201条
+2020-04-17 22:19:02,184 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:19:02,234 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:19:02,314 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:19:02,314 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：浙江省；处理的地市为：杭州市
+2020-04-17 22:19:02,314 - 获取原始数据...
+2020-04-17 22:23:18,334 - 开始计算零售户的分类...
+2020-04-17 22:25:31,773 - R阈值为：3.000000；R的阈值为：3.000000；M的阈值为：1253.120000
+2020-04-17 22:26:05,795 - 需要处理的数据共18198条
+2020-04-17 22:26:06,265 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:26:07,015 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:26:07,465 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:26:08,455 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:26:08,925 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:26:10,075 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:26:11,255 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:26:12,205 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:26:12,655 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:26:12,695 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:26:12,785 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:26:12,785 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：浙江省；处理的地市为：湖州市
+2020-04-17 22:26:12,785 - 获取原始数据...
+2020-04-17 22:28:17,877 - 开始计算零售户的分类...
+2020-04-17 22:29:55,612 - R阈值为：11.000000；R的阈值为：2.000000；M的阈值为：451.560000
+2020-04-17 22:30:19,070 - 需要处理的数据共12067条
+2020-04-17 22:30:19,850 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:30:20,320 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:30:21,060 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:30:21,470 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:30:22,230 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:30:22,620 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:30:22,650 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:30:22,740 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:30:22,740 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：浙江省；处理的地市为：嘉兴市
+2020-04-17 22:30:22,750 - 获取原始数据...
+2020-04-17 22:32:33,451 - 开始计算零售户的分类...
+2020-04-17 22:35:17,388 - R阈值为：1.000000；R的阈值为：3.000000；M的阈值为：703.840000
+2020-04-17 22:35:47,092 - 需要处理的数据共17890条
+2020-04-17 22:35:48,003 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:35:48,453 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:35:49,203 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:35:49,623 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:35:50,443 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:35:50,882 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:35:51,693 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:35:52,113 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:35:52,833 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:35:52,933 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:35:52,942 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：浙江省；处理的地市为：金华市
+2020-04-17 22:35:52,942 - 获取原始数据...
+2020-04-17 22:39:40,291 - 开始计算零售户的分类...
+2020-04-17 22:44:07,165 - R阈值为：2.000000；R的阈值为：4.000000；M的阈值为：602.080000
+2020-04-17 22:45:07,784 - 需要处理的数据共32117条
+2020-04-17 22:45:08,214 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:08,934 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:09,354 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:10,110 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:10,870 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:11,280 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:12,010 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:12,450 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:13,190 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:13,590 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:14,327 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:15,217 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:15,614 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:16,555 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:16,885 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:17,535 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:17,565 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:17,664 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:45:17,664 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：浙江省；处理的地市为：丽水市
+2020-04-17 22:45:17,664 - 获取原始数据...
+2020-04-17 22:48:18,810 - 开始计算零售户的分类...
+2020-04-17 22:49:20,545 - R阈值为：2.000000；R的阈值为：2.000000；M的阈值为：301.040000
+2020-04-17 22:49:36,445 - 需要处理的数据共9805条
+2020-04-17 22:49:36,901 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:49:37,641 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:49:38,051 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:49:38,794 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:49:39,104 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:49:39,194 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:49:39,204 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：浙江省；处理的地市为：宁波市
+2020-04-17 22:49:39,204 - 获取原始数据...
+2020-04-17 22:52:50,569 - 开始计算零售户的分类...
+2020-04-17 22:55:44,234 - R阈值为：3.000000；R的阈值为：4.000000；M的阈值为：752.600000
+2020-04-17 22:56:31,922 - 需要处理的数据共22659条
+2020-04-17 22:56:32,382 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:56:33,123 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:56:33,853 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:56:34,292 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:56:35,052 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:56:35,483 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:56:36,302 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:56:36,773 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:56:37,562 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:56:37,952 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:56:38,711 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:56:38,841 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:56:38,941 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 22:56:38,941 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：浙江省；处理的地市为：衢州市
+2020-04-17 22:56:38,941 - 获取原始数据...
+2020-04-17 22:59:52,497 - 开始计算零售户的分类...
+2020-04-17 23:00:52,958 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：301.040000
+2020-04-17 23:01:08,417 - 需要处理的数据共8907条
+2020-04-17 23:01:08,847 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:01:09,587 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:01:09,957 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:01:10,687 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:01:10,867 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:01:10,957 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:01:10,957 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：浙江省；处理的地市为：绍兴市
+2020-04-17 23:01:10,957 - 获取原始数据...
+2020-04-17 23:03:43,631 - 开始计算零售户的分类...
+2020-04-17 23:05:39,419 - R阈值为：10.000000；R的阈值为：2.000000；M的阈值为：301.040000
+2020-04-17 23:06:09,911 - 需要处理的数据共16475条
+2020-04-17 23:06:10,691 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:06:11,101 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:06:11,861 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:06:12,271 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:06:12,991 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:06:13,371 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:06:14,111 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:06:14,861 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:06:14,951 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:06:15,041 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:06:15,041 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：浙江省；处理的地市为：台州市
+2020-04-17 23:06:15,041 - 获取原始数据...
+2020-04-17 23:09:09,713 - 开始计算零售户的分类...
+2020-04-17 23:12:41,257 - R阈值为：4.000000；R的阈值为：4.000000；M的阈值为：826.040000
+2020-04-17 23:13:29,021 - 需要处理的数据共26468条
+2020-04-17 23:13:29,461 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:30,211 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:30,608 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:31,349 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:32,089 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:32,863 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:33,633 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:34,073 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:34,843 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:35,263 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:36,018 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:36,809 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:37,458 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:37,548 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:37,648 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:13:37,648 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：浙江省；处理的地市为：温州市
+2020-04-17 23:13:37,648 - 获取原始数据...
+2020-04-17 23:16:12,328 - 开始计算零售户的分类...
+2020-04-17 23:19:01,166 - R阈值为：3.000000；R的阈值为：4.000000；M的阈值为：903.120000
+2020-04-17 23:19:41,061 - 需要处理的数据共21724条
+2020-04-17 23:19:41,561 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:19:42,371 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:19:42,781 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:19:43,517 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:19:43,947 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:19:44,717 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:19:45,137 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:19:45,947 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:19:46,437 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:19:47,217 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:19:47,607 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:19:47,697 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:19:47,697 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：浙江省；处理的地市为：舟山市
+2020-04-17 23:19:47,697 - 获取原始数据...
+2020-04-17 23:23:10,532 - 开始计算零售户的分类...
+2020-04-17 23:23:30,021 - R阈值为：5.000000；R的阈值为：2.000000；M的阈值为：301.040000
+2020-04-17 23:23:34,656 - 需要处理的数据共2819条
+2020-04-17 23:23:35,146 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:23:35,306 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:23:35,396 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:23:35,396 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：安庆市
+2020-04-17 23:23:35,396 - 获取原始数据...
+2020-04-17 23:25:31,242 - 开始计算零售户的分类...
+2020-04-17 23:26:03,871 - R阈值为：4.000000；R的阈值为：2.000000；M的阈值为：314.920000
+2020-04-17 23:26:11,591 - 需要处理的数据共4521条
+2020-04-17 23:26:12,041 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:26:12,801 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:26:12,891 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:26:12,971 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:26:12,971 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：蚌埠市
+2020-04-17 23:26:12,971 - 获取原始数据...
+2020-04-17 23:28:41,810 - 开始计算零售户的分类...
+2020-04-17 23:28:55,965 - R阈值为：2.000000；R的阈值为：2.000000；M的阈值为：258.600000
+2020-04-17 23:28:59,376 - 需要处理的数据共2320条
+2020-04-17 23:28:59,837 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:28:59,896 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:28:59,997 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:28:59,997 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：亳州市
+2020-04-17 23:28:59,997 - 获取原始数据...
+2020-04-17 23:31:43,956 - 开始计算零售户的分类...
+2020-04-17 23:31:43,966 - 该地区无双喜一二类烟的零售户...
+2020-04-17 23:31:44,086 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:31:44,086 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：巢湖市
+2020-04-17 23:31:44,086 - 获取原始数据...
+2020-04-17 23:34:17,578 - 开始计算零售户的分类...
+2020-04-17 23:34:17,588 - 该地区无双喜一二类烟的零售户...
+2020-04-17 23:34:17,698 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:34:17,698 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：池州市
+2020-04-17 23:34:17,698 - 获取原始数据...
+2020-04-17 23:37:22,842 - 开始计算零售户的分类...
+2020-04-17 23:37:37,615 - R阈值为：2.000000；R的阈值为：2.000000；M的阈值为：279.840000
+2020-04-17 23:37:41,165 - 需要处理的数据共2140条
+2020-04-17 23:37:41,615 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:37:41,655 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:37:41,745 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:37:41,745 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：滁州市
+2020-04-17 23:37:41,745 - 获取原始数据...
+2020-04-17 23:40:16,327 - 开始计算零售户的分类...
+2020-04-17 23:40:43,566 - R阈值为：12.000000；R的阈值为：1.000000；M的阈值为：175.000000
+2020-04-17 23:40:50,309 - 需要处理的数据共4341条
+2020-04-17 23:40:50,729 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:40:51,459 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:40:51,519 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:40:51,609 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:40:51,609 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：阜阳市
+2020-04-17 23:40:51,609 - 获取原始数据...
+2020-04-17 23:43:16,861 - 开始计算零售户的分类...
+2020-04-17 23:43:52,849 - R阈值为：2.000000；R的阈值为：2.000000；M的阈值为：301.040000
+2020-04-17 23:44:01,797 - 需要处理的数据共4880条
+2020-04-17 23:44:02,247 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:44:02,980 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:44:03,170 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:44:03,290 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:44:03,290 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：合肥市
+2020-04-17 23:44:03,300 - 获取原始数据...
+2020-04-17 23:46:58,153 - 开始计算零售户的分类...
+2020-04-17 23:48:30,364 - R阈值为：4.000000；R的阈值为：2.000000；M的阈值为：301.040000
+2020-04-17 23:48:54,985 - 需要处理的数据共13281条
+2020-04-17 23:48:55,445 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:48:56,425 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:48:57,205 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:48:57,625 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:48:58,395 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:48:58,795 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:48:59,025 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:48:59,115 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:48:59,115 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：淮北市
+2020-04-17 23:48:59,115 - 获取原始数据...
+2020-04-17 23:52:04,108 - 开始计算零售户的分类...
+2020-04-17 23:52:06,539 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：175.000000
+2020-04-17 23:52:07,129 - 需要处理的数据共422条
+2020-04-17 23:52:07,259 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:52:07,348 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:52:07,348 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：淮南市
+2020-04-17 23:52:07,348 - 获取原始数据...
+2020-04-17 23:54:32,358 - 开始计算零售户的分类...
+2020-04-17 23:54:42,570 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-17 23:54:44,930 - 需要处理的数据共1526条
+2020-04-17 23:54:45,280 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:54:45,360 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:54:45,360 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：黄山市
+2020-04-17 23:54:45,360 - 获取原始数据...
+2020-04-17 23:56:40,744 - 开始计算零售户的分类...
+2020-04-17 23:56:49,884 - R阈值为：3.000000；R的阈值为：3.000000；M的阈值为：626.560000
+2020-04-17 23:56:51,964 - 需要处理的数据共1288条
+2020-04-17 23:56:52,264 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:56:52,344 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:56:52,344 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：六安市
+2020-04-17 23:56:52,344 - 获取原始数据...
+2020-04-17 23:59:31,724 - 开始计算零售户的分类...
+2020-04-17 23:59:48,584 - R阈值为：12.000000；R的阈值为：1.000000；M的阈值为：175.000000
+2020-04-17 23:59:52,696 - 需要处理的数据共2643条
+2020-04-17 23:59:53,476 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:59:53,586 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:59:53,686 -  select error:
+Column information cannot be retrieved: 
+2020-04-17 23:59:53,686 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：马鞍山市
+2020-04-17 23:59:53,686 - 获取原始数据...
+2020-04-18 00:03:32,168 - 开始计算零售户的分类...
+2020-04-18 00:03:42,548 - R阈值为：1.000000；R的阈值为：3.000000；M的阈值为：525.000000
+2020-04-18 00:03:45,208 - 需要处理的数据共1615条
+2020-04-18 00:03:45,598 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:03:45,678 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:03:45,678 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：铜陵市
+2020-04-18 00:03:45,678 - 获取原始数据...
+2020-04-18 00:05:59,622 - 开始计算零售户的分类...
+2020-04-18 00:05:59,622 - 该地区无双喜一二类烟的零售户...
+2020-04-18 00:05:59,732 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:05:59,732 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：芜湖市
+2020-04-18 00:05:59,732 - 获取原始数据...
+2020-04-18 00:09:27,131 - 开始计算零售户的分类...
+2020-04-18 00:09:45,109 - R阈值为：3.000000；R的阈值为：1.000000；M的阈值为：150.520000
+2020-04-18 00:09:49,389 - 需要处理的数据共3051条
+2020-04-18 00:09:49,869 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:09:50,079 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:09:50,169 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:09:50,179 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：宿州市
+2020-04-18 00:09:50,179 - 获取原始数据...
+2020-04-18 00:11:47,036 - 开始计算零售户的分类...
+2020-04-18 00:12:15,979 - R阈值为：5.000000；R的阈值为：1.000000；M的阈值为：139.920000
+2020-04-18 00:12:22,544 - 需要处理的数据共4625条
+2020-04-18 00:12:22,994 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:12:23,954 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:12:24,044 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:12:24,134 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:12:24,134 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：安徽省；处理的地市为：宣城市
+2020-04-18 00:12:24,134 - 获取原始数据...
+2020-04-18 00:16:01,235 - 开始计算零售户的分类...
+2020-04-18 00:16:25,361 - R阈值为：3.000000；R的阈值为：1.000000；M的阈值为：175.000000
+2020-04-18 00:16:31,116 - 需要处理的数据共3946条
+2020-04-18 00:16:31,666 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:16:32,486 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:16:32,576 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:16:32,576 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：福建省；处理的地市为：福州市
+2020-04-18 00:16:32,576 - 获取原始数据...
+2020-04-18 00:19:28,147 - 开始计算零售户的分类...
+2020-04-18 00:20:58,902 - R阈值为：2.000000；R的阈值为：5.000000；M的阈值为：903.120000
+2020-04-18 00:21:20,517 - 需要处理的数据共11634条
+2020-04-18 00:21:21,457 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:21:21,857 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:21:22,647 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:21:23,097 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:21:23,887 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:21:24,557 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:21:24,647 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:21:24,647 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：福建省；处理的地市为：龙岩市
+2020-04-18 00:21:24,647 - 获取原始数据...
+2020-04-18 00:24:44,328 - 开始计算零售户的分类...
+2020-04-18 00:25:25,887 - R阈值为：4.000000；R的阈值为：2.000000；M的阈值为：451.560000
+2020-04-18 00:25:35,268 - 需要处理的数据共6573条
+2020-04-18 00:25:36,458 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:25:36,888 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:25:37,318 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:25:37,418 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:25:37,518 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:25:37,518 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：福建省；处理的地市为：南平市
+2020-04-18 00:25:37,518 - 获取原始数据...
+2020-04-18 00:29:08,189 - 开始计算零售户的分类...
+2020-04-18 00:29:45,185 - R阈值为：4.000000；R的阈值为：2.000000；M的阈值为：451.560000
+2020-04-18 00:29:53,914 - 需要处理的数据共6117条
+2020-04-18 00:29:54,385 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:29:55,175 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:29:55,635 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:29:55,665 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:29:55,755 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:29:55,755 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：福建省；处理的地市为：宁德市
+2020-04-18 00:29:55,755 - 获取原始数据...
+2020-04-18 00:32:46,381 - 开始计算零售户的分类...
+2020-04-18 00:33:16,542 - R阈值为：4.000000；R的阈值为：3.000000；M的阈值为：602.080000
+2020-04-18 00:33:23,601 - 需要处理的数据共4093条
+2020-04-18 00:33:24,421 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:33:24,881 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:33:24,911 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:33:25,001 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:33:25,001 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：福建省；处理的地市为：莆田市
+2020-04-18 00:33:25,001 - 获取原始数据...
+2020-04-18 00:35:22,345 - 开始计算零售户的分类...
+2020-04-18 00:36:01,756 - R阈值为：5.000000；R的阈值为：2.000000；M的阈值为：451.560000
+2020-04-18 00:36:10,476 - 需要处理的数据共5701条
+2020-04-18 00:36:10,965 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:36:11,910 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:36:12,240 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:36:12,390 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:36:12,390 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：福建省；处理的地市为：泉州市
+2020-04-18 00:36:12,390 - 获取原始数据...
+2020-04-18 00:39:54,560 - 开始计算零售户的分类...
+2020-04-18 00:45:03,415 - R阈值为：2.000000；R的阈值为：4.000000；M的阈值为：602.080000
+2020-04-18 00:46:18,822 - 需要处理的数据共36924条
+2020-04-18 00:46:19,602 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:20,022 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:20,802 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:21,582 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:22,062 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:22,862 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:23,272 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:24,062 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:24,832 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:25,272 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:26,022 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:26,452 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:27,202 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:27,592 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:28,322 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:28,732 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:29,482 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:29,907 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:30,097 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:30,197 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:46:30,197 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：福建省；处理的地市为：三明市
+2020-04-18 00:46:30,197 - 获取原始数据...
+2020-04-18 00:50:07,202 - 开始计算零售户的分类...
+2020-04-18 00:50:36,975 - R阈值为：7.000000；R的阈值为：2.000000；M的阈值为：301.040000
+2020-04-18 00:50:44,011 - 需要处理的数据共4723条
+2020-04-18 00:50:44,491 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:50:45,272 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:50:45,431 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:50:45,522 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:50:45,522 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：福建省；处理的地市为：厦门市
+2020-04-18 00:50:45,522 - 获取原始数据...
+2020-04-18 00:54:32,429 - 开始计算零售户的分类...
+2020-04-18 00:55:52,350 - R阈值为：1.000000；R的阈值为：3.000000；M的阈值为：602.080000
+2020-04-18 00:56:11,756 - 需要处理的数据共11862条
+2020-04-18 00:56:12,276 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:56:13,126 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:56:13,526 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:56:14,266 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:56:14,696 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:56:15,086 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:56:15,176 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 00:56:15,176 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：福建省；处理的地市为：漳州市
+2020-04-18 00:56:15,176 - 获取原始数据...
+2020-04-18 00:59:14,132 - 开始计算零售户的分类...
+2020-04-18 01:01:09,372 - R阈值为：4.000000；R的阈值为：2.000000；M的阈值为：301.040000
+2020-04-18 01:01:39,952 - 需要处理的数据共16336条
+2020-04-18 01:01:40,392 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:01:41,132 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:01:41,573 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:01:42,323 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:01:42,713 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:01:43,473 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:01:43,873 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:01:44,633 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:01:44,693 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:01:44,773 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:01:44,773 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江西省；处理的地市为：抚州市
+2020-04-18 01:01:44,783 - 获取原始数据...
+2020-04-18 01:05:05,990 - 开始计算零售户的分类...
+2020-04-18 01:05:52,114 - R阈值为：3.000000；R的阈值为：4.000000；M的阈值为：903.120000
+2020-04-18 01:06:02,575 - 需要处理的数据共6658条
+2020-04-18 01:06:03,025 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:06:03,858 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:06:04,318 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:06:04,448 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:06:04,538 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:06:04,538 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江西省；处理的地市为：赣州市
+2020-04-18 01:06:04,538 - 获取原始数据...
+2020-04-18 01:10:07,325 - 开始计算零售户的分类...
+2020-04-18 01:13:55,257 - R阈值为：1.000000；R的阈值为：5.000000；M的阈值为：1354.680000
+2020-04-18 01:14:47,873 - 需要处理的数据共28401条
+2020-04-18 01:14:49,103 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:49,543 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:50,603 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:52,343 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:52,983 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:53,823 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:54,383 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:55,243 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:56,063 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:56,833 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:57,853 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:58,613 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:59,060 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:59,810 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:59,891 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:59,981 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:14:59,981 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江西省；处理的地市为：吉安市
+2020-04-18 01:14:59,981 - 获取原始数据...
+2020-04-18 01:18:36,587 - 开始计算零售户的分类...
+2020-04-18 01:18:36,637 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：150.520000
+2020-04-18 01:18:36,657 - 需要处理的数据共4条
+2020-04-18 01:18:36,697 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:18:36,777 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:18:36,777 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江西省；处理的地市为：景德镇市
+2020-04-18 01:18:36,777 - 获取原始数据...
+2020-04-18 01:22:16,562 - 开始计算零售户的分类...
+2020-04-18 01:22:16,562 - 该地区无双喜一二类烟的零售户...
+2020-04-18 01:22:16,722 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:22:16,722 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江西省；处理的地市为：九江市
+2020-04-18 01:22:16,722 - 获取原始数据...
+2020-04-18 01:25:48,607 - 开始计算零售户的分类...
+2020-04-18 01:26:36,128 - R阈值为：4.000000；R的阈值为：3.000000；M的阈值为：752.600000
+2020-04-18 01:26:48,161 - 需要处理的数据共7334条
+2020-04-18 01:26:48,971 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:26:49,391 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:26:50,231 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:26:50,491 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:26:50,571 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:26:50,571 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江西省；处理的地市为：南昌市
+2020-04-18 01:26:50,571 - 获取原始数据...
+2020-04-18 01:29:55,987 - 开始计算零售户的分类...
+2020-04-18 01:31:04,347 - R阈值为：2.000000；R的阈值为：4.000000；M的阈值为：752.600000
+2020-04-18 01:31:20,400 - 需要处理的数据共10146条
+2020-04-18 01:31:21,181 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:31:21,621 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:31:22,381 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:31:22,790 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:31:23,571 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:31:23,601 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:31:23,690 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:31:23,690 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江西省；处理的地市为：萍乡市
+2020-04-18 01:31:23,690 - 获取原始数据...
+2020-04-18 01:34:19,033 - 开始计算零售户的分类...
+2020-04-18 01:34:47,773 - R阈值为：4.000000；R的阈值为：3.000000；M的阈值为：820.440000
+2020-04-18 01:34:54,673 - 需要处理的数据共4554条
+2020-04-18 01:34:55,143 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:34:55,923 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:34:56,023 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:34:56,123 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:34:56,123 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江西省；处理的地市为：上饶市
+2020-04-18 01:34:56,123 - 获取原始数据...
+2020-04-18 01:38:17,562 - 开始计算零售户的分类...
+2020-04-18 01:39:13,753 - R阈值为：1.000000；R的阈值为：1.000000；M的阈值为：150.520000
+2020-04-18 01:39:26,505 - 需要处理的数据共8759条
+2020-04-18 01:39:26,925 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:39:27,706 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:39:28,115 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:39:28,726 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:39:28,835 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:39:28,916 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:39:28,925 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江西省；处理的地市为：新余市
+2020-04-18 01:39:28,925 - 获取原始数据...
+2020-04-18 01:41:56,424 - 开始计算零售户的分类...
+2020-04-18 01:42:08,014 - R阈值为：4.000000；R的阈值为：2.000000；M的阈值为：752.600000
+2020-04-18 01:42:10,497 - 需要处理的数据共1760条
+2020-04-18 01:42:10,857 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:42:10,957 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:42:10,957 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江西省；处理的地市为：宜春市
+2020-04-18 01:42:10,957 - 获取原始数据...
+2020-04-18 01:45:54,856 - 开始计算零售户的分类...
+2020-04-18 01:46:54,049 - R阈值为：6.000000；R的阈值为：3.000000；M的阈值为：903.120000
+2020-04-18 01:47:07,543 - 需要处理的数据共9231条
+2020-04-18 01:47:08,003 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:47:08,733 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:47:09,143 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:47:09,933 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:47:10,163 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:47:10,263 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:47:10,263 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：江西省；处理的地市为：鹰潭市
+2020-04-18 01:47:10,263 - 获取原始数据...
+2020-04-18 01:49:40,220 - 开始计算零售户的分类...
+2020-04-18 01:49:52,510 - R阈值为：4.000000；R的阈值为：5.000000；M的阈值为：1204.160000
+2020-04-18 01:49:55,460 - 需要处理的数据共1728条
+2020-04-18 01:49:56,190 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:49:56,270 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:49:56,270 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：滨州市
+2020-04-18 01:49:56,270 - 获取原始数据...
+2020-04-18 01:53:01,427 - 开始计算零售户的分类...
+2020-04-18 01:53:07,407 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 01:53:08,977 - 需要处理的数据共973条
+2020-04-18 01:53:09,210 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:53:09,290 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:53:09,290 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：德州市
+2020-04-18 01:53:09,290 - 获取原始数据...
+2020-04-18 01:55:49,132 - 开始计算零售户的分类...
+2020-04-18 01:56:01,381 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 01:56:04,131 - 需要处理的数据共1875条
+2020-04-18 01:56:05,291 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:56:05,371 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:56:05,371 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：东营市
+2020-04-18 01:56:05,371 - 获取原始数据...
+2020-04-18 01:59:04,028 - 开始计算零售户的分类...
+2020-04-18 01:59:11,686 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 01:59:13,506 - 需要处理的数据共1109条
+2020-04-18 01:59:13,786 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:59:13,866 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 01:59:13,866 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：菏泽市
+2020-04-18 01:59:13,866 - 获取原始数据...
+2020-04-18 02:01:44,313 - 开始计算零售户的分类...
+2020-04-18 02:02:15,067 - R阈值为：6.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 02:02:22,559 - 需要处理的数据共4879条
+2020-04-18 02:02:23,349 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:02:23,859 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:02:24,019 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:02:24,099 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:02:24,099 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：济南市
+2020-04-18 02:02:24,099 - 获取原始数据...
+2020-04-18 02:04:58,953 - 开始计算零售户的分类...
+2020-04-18 02:05:02,814 - R阈值为：6.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 02:05:03,731 - 需要处理的数据共601条
+2020-04-18 02:05:03,871 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:05:03,951 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:05:03,951 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：济宁市
+2020-04-18 02:05:03,951 - 获取原始数据...
+2020-04-18 02:08:26,289 - 开始计算零售户的分类...
+2020-04-18 02:09:12,094 - R阈值为：7.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 02:09:22,766 - 需要处理的数据共6944条
+2020-04-18 02:09:23,216 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:09:23,986 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:09:24,727 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:09:24,896 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:09:24,977 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:09:24,986 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：莱芜市
+2020-04-18 02:09:24,986 - 获取原始数据...
+2020-04-18 02:12:15,979 - 开始计算零售户的分类...
+2020-04-18 02:12:15,979 - 该地区无双喜一二类烟的零售户...
+2020-04-18 02:12:16,099 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:12:16,109 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：聊城市
+2020-04-18 02:12:16,109 - 获取原始数据...
+2020-04-18 02:15:55,999 - 开始计算零售户的分类...
+2020-04-18 02:16:01,492 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：139.920000
+2020-04-18 02:16:02,858 - 需要处理的数据共836条
+2020-04-18 02:16:03,060 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:16:03,137 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:16:03,137 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：临沂市
+2020-04-18 02:16:03,137 - 获取原始数据...
+2020-04-18 02:18:00,882 - 开始计算零售户的分类...
+2020-04-18 02:19:59,620 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：139.920000
+2020-04-18 02:20:22,713 - 需要处理的数据共13882条
+2020-04-18 02:20:23,602 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:20:24,056 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:20:24,808 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:20:25,777 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:20:26,906 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:20:27,325 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:20:27,773 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:20:27,893 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:20:27,894 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：青岛市
+2020-04-18 02:20:27,895 - 获取原始数据...
+2020-04-18 02:23:45,490 - 开始计算零售户的分类...
+2020-04-18 02:24:17,459 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 02:24:24,715 - 需要处理的数据共4673条
+2020-04-18 02:24:25,193 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:24:26,004 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:24:26,145 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:24:26,245 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:24:26,246 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：日照市
+2020-04-18 02:24:26,246 - 获取原始数据...
+2020-04-18 02:28:03,821 - 开始计算零售户的分类...
+2020-04-18 02:28:18,915 - R阈值为：6.000000；R的阈值为：2.000000；M的阈值为：279.840000
+2020-04-18 02:28:23,055 - 需要处理的数据共2377条
+2020-04-18 02:28:23,931 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:28:24,015 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:28:24,114 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:28:24,115 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：泰安市
+2020-04-18 02:28:24,115 - 获取原始数据...
+2020-04-18 02:31:32,060 - 开始计算零售户的分类...
+2020-04-18 02:31:34,750 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：139.920000
+2020-04-18 02:31:35,360 - 需要处理的数据共427条
+2020-04-18 02:31:35,492 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:31:35,604 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:31:35,606 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：威海市
+2020-04-18 02:31:35,606 - 获取原始数据...
+2020-04-18 02:35:18,575 - 开始计算零售户的分类...
+2020-04-18 02:35:47,441 - R阈值为：5.000000；R的阈值为：2.000000；M的阈值为：464.280000
+2020-04-18 02:35:53,771 - 需要处理的数据共4193条
+2020-04-18 02:35:54,287 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:35:55,047 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:35:55,095 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:35:55,209 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:35:55,210 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：潍坊市
+2020-04-18 02:35:55,212 - 获取原始数据...
+2020-04-18 02:41:11,663 - 开始计算零售户的分类...
+2020-04-18 02:41:32,766 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 02:41:37,642 - 需要处理的数据共3088条
+2020-04-18 02:41:38,111 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:41:38,323 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:41:38,423 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:41:38,425 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：烟台市
+2020-04-18 02:41:38,425 - 获取原始数据...
+2020-04-18 02:46:55,259 - 开始计算零售户的分类...
+2020-04-18 02:47:17,511 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 02:47:22,388 - 需要处理的数据共3278条
+2020-04-18 02:47:22,945 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:47:23,188 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:47:23,301 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:47:23,303 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：枣庄市
+2020-04-18 02:47:23,303 - 获取原始数据...
+2020-04-18 02:51:56,274 - 开始计算零售户的分类...
+2020-04-18 02:52:07,475 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 02:52:10,053 - 需要处理的数据共1746条
+2020-04-18 02:52:10,446 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:52:10,586 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:52:10,586 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：山东省；处理的地市为：淄博市
+2020-04-18 02:52:10,586 - 获取原始数据...
+2020-04-18 02:56:34,113 - 开始计算零售户的分类...
+2020-04-18 02:56:39,085 - R阈值为：7.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 02:56:40,272 - 需要处理的数据共801条
+2020-04-18 02:56:40,484 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:56:40,586 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 02:56:40,588 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：安阳市
+2020-04-18 02:56:40,589 - 获取原始数据...
+2020-04-18 03:00:26,827 - 开始计算零售户的分类...
+2020-04-18 03:00:37,836 - R阈值为：2.000000；R的阈值为：1.000000；M的阈值为：139.920000
+2020-04-18 03:00:40,450 - 需要处理的数据共1605条
+2020-04-18 03:00:40,810 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:00:40,890 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:00:40,890 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：鹤壁市
+2020-04-18 03:00:40,890 - 获取原始数据...
+2020-04-18 03:04:11,189 - 开始计算零售户的分类...
+2020-04-18 03:04:18,964 - R阈值为：10.000000；R的阈值为：2.000000；M的阈值为：279.840000
+2020-04-18 03:04:20,866 - 需要处理的数据共1244条
+2020-04-18 03:04:21,296 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:04:21,389 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:04:21,389 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：济源市
+2020-04-18 03:04:21,389 - 获取原始数据...
+2020-04-18 03:07:57,433 - 开始计算零售户的分类...
+2020-04-18 03:07:57,448 - 该地区无双喜一二类烟的零售户...
+2020-04-18 03:07:57,571 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:07:57,571 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：焦作市
+2020-04-18 03:07:57,571 - 获取原始数据...
+2020-04-18 03:11:23,032 - 开始计算零售户的分类...
+2020-04-18 03:11:36,092 - R阈值为：11.000000；R的阈值为：2.000000；M的阈值为：279.840000
+2020-04-18 03:11:39,151 - 需要处理的数据共2054条
+2020-04-18 03:11:40,026 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:11:40,060 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:11:40,163 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:11:40,164 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：开封市
+2020-04-18 03:11:40,164 - 获取原始数据...
+2020-04-18 03:15:04,601 - 开始计算零售户的分类...
+2020-04-18 03:15:10,162 - R阈值为：3.000000；R的阈值为：1.000000；M的阈值为：139.920000
+2020-04-18 03:15:11,416 - 需要处理的数据共869条
+2020-04-18 03:15:11,431 -  select error:
+[IBM][CLI Driver] SQL30081N  A communication error has been detected. Communication protocol being used: "TCP/IP".  Communication API being used: "SOCKETS".  Location where the error was detected: "10.160.19.25".  Communication function detecting the error: "send".  Protocol specific error code(s): "10054", "*", "0".  SQLSTATE=08001 SQLCODE=-30081
+2020-04-18 03:15:11,591 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:15:11,591 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：洛阳市
+2020-04-18 03:15:11,591 - 获取原始数据...
+2020-04-18 03:18:22,891 - 开始计算零售户的分类...
+2020-04-18 03:18:53,089 - R阈值为：11.000000；R的阈值为：2.000000；M的阈值为：419.760000
+2020-04-18 03:19:00,388 - 需要处理的数据共4662条
+2020-04-18 03:19:00,400 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:19:00,403 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:19:00,404 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:19:00,525 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:19:00,527 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：漯河市
+2020-04-18 03:19:00,528 - 获取原始数据...
+2020-04-18 03:22:29,120 - 开始计算零售户的分类...
+2020-04-18 03:22:47,280 - R阈值为：2.000000；R的阈值为：1.000000；M的阈值为：269.220000
+2020-04-18 03:22:51,993 - 需要处理的数据共2849条
+2020-04-18 03:22:52,004 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:22:52,006 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:22:52,110 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:22:52,110 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：南阳市
+2020-04-18 03:22:52,110 - 获取原始数据...
+2020-04-18 03:26:36,964 - 开始计算零售户的分类...
+2020-04-18 03:27:17,678 - R阈值为：3.000000；R的阈值为：2.000000；M的阈值为：419.760000
+2020-04-18 03:27:26,564 - 需要处理的数据共5868条
+2020-04-18 03:27:26,576 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:27:26,579 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:27:26,582 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:27:26,748 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:27:26,748 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：平顶山市
+2020-04-18 03:27:26,759 - 获取原始数据...
+2020-04-18 03:31:04,605 - 开始计算零售户的分类...
+2020-04-18 03:31:10,491 - R阈值为：8.500000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 03:31:11,932 - 需要处理的数据共924条
+2020-04-18 03:31:11,936 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:31:12,136 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:31:12,137 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：濮阳市
+2020-04-18 03:31:12,137 - 获取原始数据...
+2020-04-18 03:35:09,446 - 开始计算零售户的分类...
+2020-04-18 03:35:20,377 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 03:35:22,772 - 需要处理的数据共1532条
+2020-04-18 03:35:22,777 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:35:22,899 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:35:22,900 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：三门峡市
+2020-04-18 03:35:22,901 - 获取原始数据...
+2020-04-18 03:40:50,959 - 开始计算零售户的分类...
+2020-04-18 03:40:58,828 - R阈值为：10.000000；R的阈值为：2.000000；M的阈值为：419.760000
+2020-04-18 03:41:00,902 - 需要处理的数据共1182条
+2020-04-18 03:41:00,908 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:41:01,028 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:41:01,029 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：商丘市
+2020-04-18 03:41:01,029 - 获取原始数据...
+2020-04-18 03:46:32,075 - 开始计算零售户的分类...
+2020-04-18 03:46:44,947 - R阈值为：5.000000；R的阈值为：2.000000；M的阈值为：279.840000
+2020-04-18 03:46:48,086 - 需要处理的数据共2061条
+2020-04-18 03:46:48,091 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:46:48,092 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:46:48,207 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:46:48,207 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：新乡市
+2020-04-18 03:46:48,207 - 获取原始数据...
+2020-04-18 03:52:14,849 - 开始计算零售户的分类...
+2020-04-18 03:52:32,494 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 03:52:36,693 - 需要处理的数据共2781条
+2020-04-18 03:52:36,698 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:52:36,702 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:52:36,858 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:52:36,859 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：信阳市
+2020-04-18 03:52:36,860 - 获取原始数据...
+2020-04-18 03:57:06,556 - 开始计算零售户的分类...
+2020-04-18 03:57:15,117 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：258.600000
+2020-04-18 03:57:16,844 - 需要处理的数据共1131条
+2020-04-18 03:57:16,848 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 03:57:17,057 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 03:57:17,057 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：许昌市
+2020-04-18 03:57:17,057 - 获取原始数据...
+2020-04-18 04:01:04,776 - 开始计算零售户的分类...
+2020-04-18 04:01:13,856 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 04:01:16,170 - 需要处理的数据共1447条
+2020-04-18 04:01:16,177 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:01:16,344 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:01:16,345 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：郑州市
+2020-04-18 04:01:16,346 - 获取原始数据...
+2020-04-18 04:05:00,140 - 开始计算零售户的分类...
+2020-04-18 04:05:40,901 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-18 04:05:51,317 - 需要处理的数据共5988条
+2020-04-18 04:05:51,323 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:05:51,328 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:05:51,331 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:05:51,568 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:05:51,569 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：周口市
+2020-04-18 04:05:51,569 - 获取原始数据...
+2020-04-18 04:09:17,725 - 开始计算零售户的分类...
+2020-04-18 04:09:33,258 - R阈值为：3.000000；R的阈值为：1.000000；M的阈值为：139.920000
+2020-04-18 04:09:36,762 - 需要处理的数据共2418条
+2020-04-18 04:09:36,766 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:09:36,768 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:09:36,890 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:09:36,890 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：驻马店市
+2020-04-18 04:09:36,890 - 获取原始数据...
+2020-04-18 04:13:05,206 - 开始计算零售户的分类...
+2020-04-18 04:14:00,824 - R阈值为：1.000000；R的阈值为：3.000000；M的阈值为：602.080000
+2020-04-18 04:14:13,328 - 需要处理的数据共7932条
+2020-04-18 04:14:13,334 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:14:13,338 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:14:13,344 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:14:13,348 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:14:13,474 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:14:13,475 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：鄂州市
+2020-04-18 04:14:13,476 - 获取原始数据...
+2020-04-18 04:17:43,358 - 开始计算零售户的分类...
+2020-04-18 04:17:48,459 - R阈值为：0.000000；R的阈值为：3.000000；M的阈值为：525.000000
+2020-04-18 04:17:49,623 - 需要处理的数据共791条
+2020-04-18 04:17:49,627 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:17:49,745 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:17:49,745 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：恩施市
+2020-04-18 04:17:49,745 - 获取原始数据...
+2020-04-18 04:21:25,740 - 开始计算零售户的分类...
+2020-04-18 04:21:44,512 - R阈值为：1.000000；R的阈值为：1.000000；M的阈值为：301.040000
+2020-04-18 04:21:48,756 - 需要处理的数据共2931条
+2020-04-18 04:21:48,760 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:21:48,762 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:21:48,885 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:21:48,886 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：黄冈市
+2020-04-18 04:21:48,887 - 获取原始数据...
+2020-04-18 04:25:03,903 - 开始计算零售户的分类...
+2020-04-18 04:25:11,529 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：325.520000
+2020-04-18 04:25:13,351 - 需要处理的数据共1197条
+2020-04-18 04:25:13,360 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:25:13,482 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:25:13,484 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：黄石市
+2020-04-18 04:25:13,484 - 获取原始数据...
+2020-04-18 04:27:54,576 - 开始计算零售户的分类...
+2020-04-18 04:28:08,614 - R阈值为：13.000000；R的阈值为：1.000000；M的阈值为：175.000000
+2020-04-18 04:28:11,876 - 需要处理的数据共1968条
+2020-04-18 04:28:11,881 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:28:12,005 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:28:12,006 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：荆门市
+2020-04-18 04:28:12,006 - 获取原始数据...
+2020-04-18 04:31:29,974 - 开始计算零售户的分类...
+2020-04-18 04:31:49,900 - R阈值为：1.000000；R的阈值为：2.000000；M的阈值为：476.040000
+2020-04-18 04:31:54,490 - 需要处理的数据共3107条
+2020-04-18 04:31:54,496 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:31:54,500 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:31:54,618 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:31:54,628 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：荆州市
+2020-04-18 04:31:54,629 - 获取原始数据...
+2020-04-18 04:35:02,941 - 开始计算零售户的分类...
+2020-04-18 04:36:20,367 - R阈值为：0.000000；R的阈值为：3.000000；M的阈值为：777.080000
+2020-04-18 04:36:39,266 - 需要处理的数据共10918条
+2020-04-18 04:36:39,277 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:36:39,280 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:36:39,283 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:36:39,287 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:36:39,290 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:36:39,291 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:36:39,490 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:36:39,491 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：潜江市
+2020-04-18 04:36:39,491 - 获取原始数据...
+2020-04-18 04:40:12,105 - 开始计算零售户的分类...
+2020-04-18 04:40:12,118 - 该地区无双喜一二类烟的零售户...
+2020-04-18 04:40:12,234 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:40:12,234 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：神农架
+2020-04-18 04:40:12,234 - 获取原始数据...
+2020-04-18 04:43:51,759 - 开始计算零售户的分类...
+2020-04-18 04:43:52,632 - R阈值为：3.000000；R的阈值为：2.000000；M的阈值为：903.120000
+2020-04-18 04:43:52,808 - 需要处理的数据共119条
+2020-04-18 04:43:52,809 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:43:52,949 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:43:52,950 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：十堰市
+2020-04-18 04:43:52,952 - 获取原始数据...
+2020-04-18 04:47:31,794 - 开始计算零售户的分类...
+2020-04-18 04:47:37,658 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：451.560000
+2020-04-18 04:47:38,989 - 需要处理的数据共927条
+2020-04-18 04:47:39,001 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:47:39,117 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:47:39,117 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：随州市
+2020-04-18 04:47:39,117 - 获取原始数据...
+2020-04-18 04:51:06,520 - 开始计算零售户的分类...
+2020-04-18 04:51:15,625 - R阈值为：12.000000；R的阈值为：1.000000；M的阈值为：451.560000
+2020-04-18 04:51:17,643 - 需要处理的数据共1335条
+2020-04-18 04:51:17,647 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:51:17,783 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:51:17,783 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：天门市
+2020-04-18 04:51:17,783 - 获取原始数据...
+2020-04-18 04:54:51,763 - 开始计算零售户的分类...
+2020-04-18 04:54:57,744 - R阈值为：10.000000；R的阈值为：2.000000；M的阈值为：301.040000
+2020-04-18 04:54:59,162 - 需要处理的数据共941条
+2020-04-18 04:54:59,172 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 04:54:59,295 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 04:54:59,296 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：武汉市
+2020-04-18 04:54:59,296 - 获取原始数据...
+2020-04-18 04:58:40,232 - 开始计算零售户的分类...
+2020-04-18 04:59:48,094 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：175.000000
+2020-04-18 05:00:05,410 - 需要处理的数据共9862条
+2020-04-18 05:00:05,416 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:00:05,423 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:00:05,429 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:00:05,434 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:00:05,437 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:00:05,562 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 05:00:05,563 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：仙桃市
+2020-04-18 05:00:05,563 - 获取原始数据...
+2020-04-18 05:11:26,473 - 开始计算零售户的分类...
+2020-04-18 05:11:37,156 - R阈值为：2.000000；R的阈值为：2.000000；M的阈值为：325.520000
+2020-04-18 05:11:39,634 - 需要处理的数据共1535条
+2020-04-18 05:11:39,636 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:11:39,755 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 05:11:39,756 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：咸宁市
+2020-04-18 05:11:39,756 - 获取原始数据...
+2020-04-18 05:18:18,348 - 开始计算零售户的分类...
+2020-04-18 05:18:46,617 - R阈值为：0.000000；R的阈值为：2.000000；M的阈值为：301.040000
+2020-04-18 05:18:54,297 - 需要处理的数据共4398条
+2020-04-18 05:18:54,301 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:18:54,306 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:18:54,309 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:18:54,428 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 05:18:54,428 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：襄阳市
+2020-04-18 05:18:54,429 - 获取原始数据...
+2020-04-18 05:22:11,782 - 开始计算零售户的分类...
+2020-04-18 05:22:28,445 - R阈值为：1.000000；R的阈值为：1.000000；M的阈值为：451.560000
+2020-04-18 05:22:32,367 - 需要处理的数据共2621条
+2020-04-18 05:22:32,370 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:22:32,372 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:22:32,526 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 05:22:32,526 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：孝感市
+2020-04-18 05:22:32,536 - 获取原始数据...
+2020-04-18 05:26:09,489 - 开始计算零售户的分类...
+2020-04-18 05:26:28,512 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：325.520000
+2020-04-18 05:26:32,827 - 需要处理的数据共2798条
+2020-04-18 05:26:32,833 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:26:32,835 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:26:33,011 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 05:26:33,011 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖北省；处理的地市为：宜昌市
+2020-04-18 05:26:33,011 - 获取原始数据...
+2020-04-18 05:30:17,675 - 开始计算零售户的分类...
+2020-04-18 05:30:39,997 - R阈值为：0.000000；R的阈值为：1.000000；M的阈值为：525.000000
+2020-04-18 05:30:44,867 - 需要处理的数据共3229条
+2020-04-18 05:30:44,872 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:30:44,875 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:30:44,984 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 05:30:44,984 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：常德市
+2020-04-18 05:30:44,984 - 获取原始数据...
+2020-04-18 05:34:27,343 - 开始计算零售户的分类...
+2020-04-18 05:36:25,606 - R阈值为：1.000000；R的阈值为：4.000000；M的阈值为：699.600000
+2020-04-18 05:36:52,667 - 需要处理的数据共15898条
+2020-04-18 05:36:52,680 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:36:52,682 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:36:52,687 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:36:52,692 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:36:52,697 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:36:52,703 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:36:52,707 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:36:52,714 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:36:52,845 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 05:36:52,850 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：郴州市
+2020-04-18 05:36:52,850 - 获取原始数据...
+2020-04-18 05:40:51,576 - 开始计算零售户的分类...
+2020-04-18 05:42:44,883 - R阈值为：1.000000；R的阈值为：7.000000；M的阈值为：1840.160000
+2020-04-18 05:43:10,829 - 需要处理的数据共15651条
+2020-04-18 05:43:10,835 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:43:10,839 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:43:10,843 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:43:10,844 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:43:10,849 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:43:10,852 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:43:10,856 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:43:10,859 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:43:11,020 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 05:43:11,020 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：衡阳市
+2020-04-18 05:43:11,020 - 获取原始数据...
+2020-04-18 05:47:20,071 - 开始计算零售户的分类...
+2020-04-18 05:50:30,146 - R阈值为：2.000000；R的阈值为：5.000000；M的阈值为：1430.040000
+2020-04-18 05:51:14,061 - 需要处理的数据共23658条
+2020-04-18 05:51:14,071 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:51:14,074 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:51:14,076 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:51:14,079 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:51:14,082 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:51:14,086 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:51:14,088 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:51:14,091 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:51:14,094 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:51:14,099 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:51:14,103 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:51:14,108 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:51:14,247 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 05:51:14,248 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：怀化市
+2020-04-18 05:51:14,249 - 获取原始数据...
+2020-04-18 05:54:56,195 - 开始计算零售户的分类...
+2020-04-18 05:56:23,414 - R阈值为：5.000000；R的阈值为：4.000000；M的阈值为：752.600000
+2020-04-18 05:56:43,357 - 需要处理的数据共12212条
+2020-04-18 05:56:43,363 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:56:43,367 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:56:43,370 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:56:43,373 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:56:43,376 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:56:43,380 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:56:43,381 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 05:56:43,592 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 05:56:43,594 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：娄底市
+2020-04-18 05:56:43,595 - 获取原始数据...
+2020-04-18 06:00:33,403 - 开始计算零售户的分类...
+2020-04-18 06:02:24,227 - R阈值为：2.000000；R的阈值为：6.000000；M的阈值为：1356.660000
+2020-04-18 06:02:49,555 - 需要处理的数据共15011条
+2020-04-18 06:02:49,568 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:02:49,570 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:02:49,573 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:02:49,576 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:02:49,580 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:02:49,583 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:02:49,587 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:02:49,590 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:02:49,805 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 06:02:49,805 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：邵阳市
+2020-04-18 06:02:49,805 - 获取原始数据...
+2020-04-18 06:11:23,511 - 开始计算零售户的分类...
+2020-04-18 06:16:24,011 - R阈值为：1.000000；R的阈值为：5.000000；M的阈值为：1330.600000
+2020-04-18 06:17:37,683 - 需要处理的数据共21828条
+2020-04-18 06:17:37,691 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:17:37,696 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:17:37,702 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:17:37,707 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:17:37,712 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:17:37,717 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:17:37,722 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:17:37,729 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:17:37,733 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:17:37,739 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:17:37,744 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:17:37,935 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 06:17:37,938 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：湘潭市
+2020-04-18 06:17:37,938 - 获取原始数据...
+2020-04-18 06:21:22,561 - 开始计算零售户的分类...
+2020-04-18 06:23:10,071 - R阈值为：6.000000；R的阈值为：3.000000；M的阈值为：615.960000
+2020-04-18 06:23:36,989 - 需要处理的数据共8582条
+2020-04-18 06:23:36,995 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:23:37,000 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:23:37,006 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:23:37,010 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:23:37,015 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:23:37,156 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 06:23:37,156 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：湘西自治州
+2020-04-18 06:23:37,156 - 获取原始数据...
+2020-04-18 06:27:13,795 - 开始计算零售户的分类...
+2020-04-18 06:29:04,082 - R阈值为：4.000000；R的阈值为：4.000000；M的阈值为：742.000000
+2020-04-18 06:29:32,152 - 需要处理的数据共8931条
+2020-04-18 06:29:32,160 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:29:32,166 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:29:32,171 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:29:32,176 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:29:32,179 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:29:32,386 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 06:29:32,390 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：益阳市
+2020-04-18 06:29:32,390 - 获取原始数据...
+2020-04-18 06:33:16,410 - 开始计算零售户的分类...
+2020-04-18 06:37:22,182 - R阈值为：2.000000；R的阈值为：5.000000；M的阈值为：881.900000
+2020-04-18 06:38:21,173 - 需要处理的数据共13206条
+2020-04-18 06:38:21,187 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:38:21,193 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:38:21,200 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:38:21,207 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:38:21,213 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:38:21,222 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:38:21,227 -  select error:
+[IBM][CLI Driver] CLI0106E  Connection is closed. SQLSTATE=08003 SQLCODE=-99999
+2020-04-18 06:38:21,395 -  select error:
+Column information cannot be retrieved: 
+2020-04-18 06:38:21,397 - 关闭数据库...
+2020-04-18 06:38:21,445 - 运行时间为：753分26秒
+2020-04-20 08:39:30,011 - 获取规格...
+2020-04-20 08:39:30,731 - 获取时间...
+2020-04-20 08:39:31,311 - 运行时间为：  0分 2秒
+2020-04-20 08:41:01,733 - 获取规格...
+2020-04-20 08:41:02,303 - 获取时间...
+2020-04-20 08:41:02,783 - 运行时间为：  0分 1秒
+2020-04-20 08:41:58,312 - 获取规格...
+2020-04-20 08:41:58,772 - 获取时间...
+2020-04-20 08:41:59,202 - 运行时间为：  0分 1秒
+2020-04-20 08:42:35,219 - 获取规格...
+2020-04-20 08:42:35,699 - 获取时间...
+2020-04-20 08:42:36,069 - 运行时间为：  0分 1秒
+2020-04-20 08:45:26,974 - 获取规格...
+2020-04-20 08:45:27,414 - 获取时间...
+2020-04-20 08:45:27,794 - 运行时间为：  0分 1秒
+2020-04-20 08:45:43,572 - 获取规格...
+2020-04-20 08:45:43,962 - 获取时间...
+2020-04-20 08:45:44,302 - 运行时间为：  0分 1秒
+2020-04-20 08:55:03,363 - 获取规格...
+2020-04-20 08:55:03,993 - 获取时间...
+2020-04-20 08:55:04,453 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：洛阳市
+2020-04-20 08:55:04,463 - 获取原始数据...
+2020-04-20 09:02:08,829 - 开始计算零售户的分类...
+2020-04-20 09:02:36,708 - R阈值为：11.000000；R的阈值为：2.000000；M的阈值为：419.760000
+2020-04-20 09:02:43,438 - 需要处理的数据共4662条
+2020-04-20 09:02:45,358 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 09:02:45,358 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：漯河市
+2020-04-20 09:02:45,358 - 获取原始数据...
+2020-04-20 09:11:20,736 - 开始计算零售户的分类...
+2020-04-20 09:11:37,198 - R阈值为：2.000000；R的阈值为：1.000000；M的阈值为：269.220000
+2020-04-20 09:11:40,998 - 需要处理的数据共2849条
+2020-04-20 09:11:41,778 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 09:11:41,778 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：南阳市
+2020-04-20 09:11:41,778 - 获取原始数据...
+2020-04-20 09:16:15,107 - 开始计算零售户的分类...
+2020-04-20 09:16:52,359 - R阈值为：3.000000；R的阈值为：2.000000；M的阈值为：419.760000
+2020-04-20 09:17:01,242 - 需要处理的数据共5868条
+2020-04-20 09:17:03,112 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 09:17:03,112 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：平顶山市
+2020-04-20 09:17:03,112 - 获取原始数据...
+2020-04-20 09:24:13,757 - 开始计算零售户的分类...
+2020-04-20 09:24:19,694 - R阈值为：8.500000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-20 09:24:20,975 - 需要处理的数据共924条
+2020-04-20 09:24:21,335 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 09:24:21,335 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：濮阳市
+2020-04-20 09:24:21,345 - 获取原始数据...
+2020-04-20 09:28:09,076 - 开始计算零售户的分类...
+2020-04-20 09:28:18,786 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-20 09:28:21,097 - 需要处理的数据共1532条
+2020-04-20 09:28:22,307 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 09:28:22,307 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：三门峡市
+2020-04-20 09:28:22,307 - 获取原始数据...
+2020-04-20 09:32:37,453 - 开始计算零售户的分类...
+2020-04-20 09:32:44,548 - R阈值为：10.000000；R的阈值为：2.000000；M的阈值为：419.760000
+2020-04-20 09:32:46,308 - 需要处理的数据共1182条
+2020-04-20 09:32:46,675 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 09:32:46,675 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：商丘市
+2020-04-20 09:32:46,675 - 获取原始数据...
+2020-04-20 09:38:54,227 - 开始计算零售户的分类...
+2020-04-20 09:39:06,298 - R阈值为：5.000000；R的阈值为：2.000000；M的阈值为：279.840000
+2020-04-20 09:39:09,157 - 需要处理的数据共2061条
+2020-04-20 09:39:09,768 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 09:39:09,768 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：新乡市
+2020-04-20 09:39:09,768 - 获取原始数据...
+2020-04-20 09:43:36,592 - 开始计算零售户的分类...
+2020-04-20 09:43:52,911 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-20 09:43:56,911 - 需要处理的数据共2781条
+2020-04-20 09:43:57,703 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 09:43:57,703 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：信阳市
+2020-04-20 09:43:57,703 - 获取原始数据...
+2020-04-20 09:51:28,679 - 开始计算零售户的分类...
+2020-04-20 09:51:35,157 - R阈值为：11.000000；R的阈值为：1.000000；M的阈值为：258.600000
+2020-04-20 09:51:36,697 - 需要处理的数据共1131条
+2020-04-20 09:51:37,128 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 09:51:37,128 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：许昌市
+2020-04-20 09:51:37,128 - 获取原始数据...
+2020-04-20 10:01:18,995 - 开始计算零售户的分类...
+2020-04-20 10:01:28,132 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-20 10:01:30,342 - 需要处理的数据共1447条
+2020-04-20 10:01:30,782 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 10:01:30,782 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：郑州市
+2020-04-20 10:01:30,782 - 获取原始数据...
+2020-04-20 10:07:07,771 - 开始计算零售户的分类...
+2020-04-20 10:07:43,328 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：279.840000
+2020-04-20 10:07:51,698 - 需要处理的数据共5988条
+2020-04-20 10:07:53,649 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 10:07:53,649 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：周口市
+2020-04-20 10:07:53,649 - 获取原始数据...
+2020-04-20 10:14:47,591 - 开始计算零售户的分类...
+2020-04-20 10:15:02,053 - R阈值为：3.000000；R的阈值为：1.000000；M的阈值为：139.920000
+2020-04-20 10:15:05,574 - 需要处理的数据共2418条
+2020-04-20 10:15:06,554 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 10:15:06,564 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：河南省；处理的地市为：驻马店市
+2020-04-20 10:15:06,564 - 获取原始数据...
+2020-04-20 10:26:29,208 - 开始计算零售户的分类...
+2020-04-20 10:27:18,596 - R阈值为：1.000000；R的阈值为：3.000000；M的阈值为：602.080000
+2020-04-20 10:27:31,809 - 需要处理的数据共7932条
+2020-04-20 10:27:34,626 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 10:27:34,626 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：常德市
+2020-04-20 10:27:34,626 - 获取原始数据...
+2020-04-20 10:34:24,692 - 开始计算零售户的分类...
+2020-04-20 10:36:11,641 - R阈值为：1.000000；R的阈值为：4.000000；M的阈值为：699.600000
+2020-04-20 10:36:36,067 - 需要处理的数据共15898条
+2020-04-20 10:36:41,448 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 10:36:41,448 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：郴州市
+2020-04-20 10:36:41,448 - 获取原始数据...
+2020-04-20 10:47:10,803 - 开始计算零售户的分类...
+2020-04-20 10:48:59,961 - R阈值为：1.000000；R的阈值为：7.000000；M的阈值为：1840.160000
+2020-04-20 10:49:26,212 - 需要处理的数据共15651条
+2020-04-20 10:49:31,795 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 10:49:31,795 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：衡阳市
+2020-04-20 10:49:31,795 - 获取原始数据...
+2020-04-20 11:12:23,118 - 开始计算零售户的分类...
+2020-04-20 11:15:16,413 - R阈值为：2.000000；R的阈值为：5.000000；M的阈值为：1430.040000
+2020-04-20 11:15:58,694 - 需要处理的数据共23658条
+2020-04-20 11:16:06,863 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 11:16:06,863 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：怀化市
+2020-04-20 11:16:06,863 - 获取原始数据...
+2020-04-20 11:26:15,581 - 开始计算零售户的分类...
+2020-04-20 11:27:36,511 - R阈值为：5.000000；R的阈值为：4.000000；M的阈值为：752.600000
+2020-04-20 11:27:55,469 - 需要处理的数据共12212条
+2020-04-20 11:27:59,500 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 11:27:59,500 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：娄底市
+2020-04-20 11:27:59,500 - 获取原始数据...
+2020-04-20 11:39:39,898 - 开始计算零售户的分类...
+2020-04-20 11:41:22,623 - R阈值为：2.000000；R的阈值为：6.000000；M的阈值为：1356.660000
+2020-04-20 11:41:46,300 - 需要处理的数据共15011条
+2020-04-20 11:41:51,743 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 11:41:51,743 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：邵阳市
+2020-04-20 11:41:51,743 - 获取原始数据...
+2020-04-20 11:52:38,610 - 开始计算零售户的分类...
+2020-04-20 11:55:17,197 - R阈值为：1.000000；R的阈值为：5.000000；M的阈值为：1330.600000
+2020-04-20 11:55:55,090 - 需要处理的数据共21828条
+2020-04-20 11:56:02,808 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 11:56:02,808 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：湘潭市
+2020-04-20 11:56:02,818 - 获取原始数据...
+2020-04-20 12:07:48,907 - 开始计算零售户的分类...
+2020-04-20 12:08:42,445 - R阈值为：6.000000；R的阈值为：3.000000；M的阈值为：615.960000
+2020-04-20 12:08:55,002 - 需要处理的数据共8582条
+2020-04-20 12:08:57,706 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 12:08:57,716 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：湘西自治州
+2020-04-20 12:08:57,716 - 获取原始数据...
+2020-04-20 12:18:49,993 - 开始计算零售户的分类...
+2020-04-20 12:19:47,593 - R阈值为：4.000000；R的阈值为：4.000000；M的阈值为：742.000000
+2020-04-20 12:20:02,763 - 需要处理的数据共8931条
+2020-04-20 12:20:06,173 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 12:20:06,173 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：湖南省；处理的地市为：益阳市
+2020-04-20 12:20:06,173 - 获取原始数据...
+2020-04-20 12:23:54,192 - 开始计算零售户的分类...
+2020-04-20 12:25:19,190 - R阈值为：2.000000；R的阈值为：5.000000；M的阈值为：881.900000
+2020-04-20 12:25:40,090 - 需要处理的数据共13206条
+2020-04-20 12:25:44,440 -  select error:
+Column information cannot be retrieved: 
+2020-04-20 12:25:44,460 - 关闭数据库...
+2020-04-20 12:25:44,470 - 运行时间为：210分41秒
+2020-04-20 12:40:41,221 - 获取规格...
+2020-04-20 12:40:41,901 - 获取时间...
+2020-04-20 12:40:42,461 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：阿克苏地区
+2020-04-20 12:40:42,461 - 获取原始数据...
+2020-04-20 12:45:20,151 - 开始计算零售户的分类...
+2020-04-20 12:45:20,381 - R阈值为：13.000000；R的阈值为：1.000000；M的阈值为：175.000000
+2020-04-20 12:45:20,447 - 需要处理的数据共37条
+2020-04-20 12:45:20,627 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：阿勒泰地区
+2020-04-20 12:45:20,627 - 获取原始数据...
+2020-04-20 12:52:24,433 - 开始计算零售户的分类...
+2020-04-20 12:52:26,803 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：175.000000
+2020-04-20 12:52:27,313 - 需要处理的数据共384条
+2020-04-20 12:52:27,603 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：巴音郭楞
+2020-04-20 12:52:27,603 - 获取原始数据...
+2020-04-20 13:00:03,236 - 开始计算零售户的分类...
+2020-04-20 13:00:03,246 - 该地区无双喜一二类烟的零售户...
+2020-04-20 13:00:03,376 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：博尔塔拉
+2020-04-20 13:00:03,376 - 获取原始数据...
+2020-04-20 13:09:01,235 - 开始计算零售户的分类...
+2020-04-20 13:09:01,641 - R阈值为：10.000000；R的阈值为：1.000000；M的阈值为：263.000000
+2020-04-20 13:09:01,751 - 需要处理的数据共65条
+2020-04-20 13:09:01,911 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：昌吉
+2020-04-20 13:09:01,911 - 获取原始数据...
+2020-04-20 13:16:10,250 - 开始计算零售户的分类...
+2020-04-20 13:16:10,260 - 该地区无双喜一二类烟的零售户...
+2020-04-20 13:16:10,380 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：哈密地区
+2020-04-20 13:16:10,380 - 获取原始数据...
+2020-04-20 13:23:25,144 - 开始计算零售户的分类...
+2020-04-20 13:23:25,144 - 该地区无双喜一二类烟的零售户...
+2020-04-20 13:23:25,274 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：和田地区
+2020-04-20 13:23:25,274 - 获取原始数据...
+2020-04-20 13:30:27,060 - 开始计算零售户的分类...
+2020-04-20 13:30:34,389 - R阈值为：13.000000；R的阈值为：1.000000；M的阈值为：175.000000
+2020-04-20 13:30:36,089 - 需要处理的数据共1229条
+2020-04-20 13:30:36,479 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：喀什地区
+2020-04-20 13:30:36,479 - 获取原始数据...
+2020-04-20 13:38:57,751 - 开始计算零售户的分类...
+2020-04-20 13:39:15,944 - R阈值为：3.000000；R的阈值为：2.000000；M的阈值为：613.000000
+2020-04-20 13:39:20,143 - 需要处理的数据共3048条
+2020-04-20 13:39:20,945 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：克拉玛依市
+2020-04-20 13:39:20,954 - 获取原始数据...
+2020-04-20 13:49:35,667 - 开始计算零售户的分类...
+2020-04-20 13:49:40,106 - R阈值为：2.000000；R的阈值为：2.000000；M的阈值为：350.000000
+2020-04-20 13:49:41,087 - 需要处理的数据共736条
+2020-04-20 13:49:41,357 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：石河子市
+2020-04-20 13:49:41,357 - 获取原始数据...
+2020-04-20 13:54:40,647 - 开始计算零售户的分类...
+2020-04-20 13:54:40,657 - 该地区无双喜一二类烟的零售户...
+2020-04-20 13:54:40,787 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：塔城地区
+2020-04-20 13:54:40,787 - 获取原始数据...
+2020-04-20 14:07:54,473 - 开始计算零售户的分类...
+2020-04-20 14:07:54,483 - 该地区无双喜一二类烟的零售户...
+2020-04-20 14:07:54,613 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：吐鲁番地区
+2020-04-20 14:07:54,613 - 获取原始数据...
+2020-04-20 14:11:51,474 - 开始计算零售户的分类...
+2020-04-20 14:11:51,484 - 该地区无双喜一二类烟的零售户...
+2020-04-20 14:11:51,644 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：乌鲁木齐市
+2020-04-20 14:11:51,644 - 获取原始数据...
+2020-04-20 14:22:01,103 - 开始计算零售户的分类...
+2020-04-20 14:22:15,630 - R阈值为：2.000000；R的阈值为：1.000000；M的阈值为：350.000000
+2020-04-20 14:22:18,885 - 需要处理的数据共2275条
+2020-04-20 14:22:19,575 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：新疆销售公司
+2020-04-20 14:22:19,575 - 获取原始数据...
+2020-04-20 14:27:57,405 - 开始计算零售户的分类...
+2020-04-20 14:27:57,405 - 该地区无双喜一二类烟的零售户...
+2020-04-20 14:27:57,526 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：伊犁
+2020-04-20 14:27:57,535 - 获取原始数据...
+2020-04-20 14:33:21,043 - 开始计算零售户的分类...
+2020-04-20 14:33:21,053 - 该地区无双喜一二类烟的零售户...
+2020-04-20 14:33:21,143 - 处理的核心户情况中烟为：广东中烟工业有限责任公司；处理的时间为：202003；处理的省份为：新疆区；处理的地市为：新疆销售公司
+2020-04-20 14:33:21,143 - 获取原始数据...
+2020-04-20 14:37:57,690 - 开始计算零售户的分类...
+2020-04-20 14:37:57,690 - 该地区无双喜一二类烟的零售户...
+2020-04-20 14:37:57,810 - 关闭数据库...
+2020-04-20 14:37:57,810 - 运行时间为：117分17秒
